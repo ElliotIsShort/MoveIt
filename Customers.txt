@@ -1,0 +1,2 @@
+BUSINESS,1,John Enterprise,123 street lane,postcode test,Direct Line,true
+INDIVIDUAL,2,Ben Hector,45 Park Avenue,ca1 3cd,The Bank,123456

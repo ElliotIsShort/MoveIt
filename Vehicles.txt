@@ -1,0 +1,9 @@
+VAN,1,true,Small
+LORRY,8,false,LIFT
+VAN,2,false,Small
+VAN,4,false,Large
+LORRY,6,true,CRANE
+VAN,3,true,Large
+LORRY,5,false,SMALLLORRY
+LORRY,7,true,TAILGATE
+PICKUP,9,false,4

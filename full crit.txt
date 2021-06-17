@@ -1,0 +1,56 @@
+Steve Davies and Mike Evans of MoveIT Vehicle Hire (MITVH) buy commercial vehicles directly from the manufacturer and hire them to businesses and private individuals.
+Your development team has recently has been approved by the management team at MITVH to produce a scalable application based on the Java programming environment.
+The following vehicle types are available to hire:
+
+⦁	Two van types:
+    ⦁	Small van;
+    ⦁	Large van;
+⦁	Pickup truck;
+⦁	Three lorry types:
+    ⦁	Small lorry;
+    ⦁	Lorry with a small crane for delivering building materials:
+        ⦁	Sand, bricks, gas bottles and other such bulk items.
+    ⦁	Lorry with a tailgate lift for delivering white goods;
+    ⦁	Large lorry with incorporated fork lift truck.
+⦁	Insurance cover is :
+    ⦁	Mandatory for private individual hire;
+    ⦁	Optional for businesses that can supply their own insurance cover, otherwise MITVH will provide insurance cover.
+
+ Prototype characteristics:
+
+⦁	Java based system;
+⦁	The front end to the system is of your choice.
+⦁	The application must allow the 
+    ⦁	Register as either:
+        ⦁	Business;
+        ⦁	Private individual.
+        ⦁	Register details will include:
+            ⦁	Name;
+            ⦁	Address;
+            ⦁	Post code;
+            ⦁	Payment details.
+    ⦁	Browse available vehicles for hire by category:
+        ⦁	Van;
+        ⦁	Pickup truck;
+        ⦁	Lorry
+⦁	Select Dates for hire and return in multiples of 1 week;
+⦁	Display the cost of hire and insurance for the hire period (you may invent your own costings).
+⦁	Book a selected vehicle.
+⦁	Keep a history of vehicle hire
+⦁	Provide functionality: 
+    ⦁	To receive, store and update hirer name, address, telephone number and credit card details in memory;
+    ⦁	To read and write hirer and hired vehicle details in local files.
+    ⦁	To retrieve and display the data held on customers and previous hiring histories to the front end on request.
+    ⦁	Ensure that two instances of the same class and holding the same data values when compared equate to true by Overriding the methods for:
+        ⦁	hashCode();
+        ⦁	equals();
+        ⦁	compareTo().
+⦁	Demonstrate your ability to: 
+    ⦁	Use two algorithms [O(n), O(n log(n)] to sort your objects held within suitable data structures.
+    ⦁	Add, update and delete Objects from your data structure.
+
+
+This task is deliberately non-prescriptive in outlining how you should separate the components of your system – part of the task is for you to plan and implement this.
+
+Helpful links
+https://www.youtube.com/watch?v=f3H-MUHKtAM

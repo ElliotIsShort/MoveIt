@@ -1,0 +1,39 @@
+Vehicles:
+  Small Van
+  Large Van
+  Small Lorry
+  Lorry with crane
+  Lorry with tailgate
+  Lorry with fork lift
+
+Insurance:
+  Mandatory for individual
+  Optional for business
+
+Front End:
+  Register as Business or Individual
+    Details:
+      Name
+      Address
+      Postcode
+      Payment Details
+
+Browser Vehicle by:
+  Van
+  Lorry
+  Pickup Truck
+
+Dates:
+  Hire and return in multiples of 1 week
+
+Cost:
+  Cost of hire and insurance
+
+Book a vehicle
+History of vehicle hire
+
+Functionality:
+  Recieve, store and update register details
+  Read/ write hirer and vehicle details
+  Retrieve/ display customer details and hire history
+  
